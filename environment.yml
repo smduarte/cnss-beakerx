@@ -1,0 +1,5 @@
+name: cnss-beakerx
+channels:
+  - conda-forge
+dependencies:
+  - numpy
